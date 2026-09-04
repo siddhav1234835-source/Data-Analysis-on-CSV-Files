@@ -145,6 +145,3 @@ The project can be further improved by:
 * Connecting the project to a database.
 * Automating sales reports.
 
-## Conclusion
-
-This project demonstrates how Python can be used to perform sales data analysis efficiently. It combines **Pandas for data processing**, **CSV file handling for data storage**, and **Matplotlib for visualization** to provide a complete beginner-friendly data analysis workflow.
